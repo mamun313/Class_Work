@@ -1,0 +1,10 @@
+public class syntex {
+  public static void main(String[] args) {
+
+    String id = "C251046";
+    System.out.println(id);
+    String name = "saifullah mamun";
+    System.out.println(name);
+    System.out.println("3rd semester,3CM");
+  }
+}
